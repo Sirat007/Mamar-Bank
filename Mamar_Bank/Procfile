@@ -1,0 +1,1 @@
+web: gunicorn MAMAR_BANK.wsgi:application
