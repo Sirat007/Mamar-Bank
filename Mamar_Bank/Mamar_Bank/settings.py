@@ -19,7 +19,7 @@ environ.Env.read_env()
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Your secret key
-SECRET_KEY = env("SECRET_KEY")
+SECRET_KEY = django-insecure-1x*3o$+yblt8%-1hkm-x4oq^0(!1dy9e%oz4sp810iy=weul)n
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
